@@ -1,0 +1,13 @@
+/*
+ * Theme Customizer CSS
+ *
+ */
+
+#customize-control-glades_control_header_content,
+#customize-control-glades_control_post_images {
+	margin-bottom: 0;
+}
+
+#customize-control-glades_control_footer_text textarea {
+	height: 4em;
+}

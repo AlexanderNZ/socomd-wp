@@ -1,0 +1,9 @@
+/* Standard screen size */
+@media (max-width:600px){
+    #content{
+        width: 100%;
+    }
+    #sidebar{
+        width: 100%;
+    }
+}
